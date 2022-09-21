@@ -1,0 +1,37 @@
+#number {
+    font-size: 80px;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+.btn-1 {
+    font-size: 40px;
+    background-color: green;
+    /* text-align: left; */
+    font-weight: bold;
+}
+.btn-2 {
+    font-size: 40px;
+    background-color: red;
+    /* text-align: right; */
+    font-weight: bold;
+}
+.btn-3 {
+    font-size: 40px;
+    background-color: plum;
+    /* text-align: right; */
+    font-weight: bold;
+}
+.btn-1:hover {
+    font-size: 40px;
+    background-color: blue;
+    text-align: left;
+    font-weight: bold;
+}
+.cont {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
